@@ -1,0 +1,28 @@
+{
+  "name": "login_firebase",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@blueprintjs/core": "^2.3.1",
+    "chordsheetjs": "^2.4.5",
+    "firebase": "^5.0.4",
+    "re-base": "^3.2.3",
+    "react": "^16.4.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.0",
+    "react-facebook-auth": "^1.4.0",
+    "react-facebook-login": "^4.0.1",
+    "react-facebook-login-component": "^0.9.2",
+    "react-firebase-social-logins": "^1.0.0",
+    "react-google-login": "^3.2.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-transition-group": "^2.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
